@@ -1,5 +1,9 @@
 [
     {
+        "quote": "Get busy living or get busy dying",
+        "name": "Stephen King"
+    },
+    {
         "quote": "Education is the manifestation of perfection already in a man",
         "name": "Swami Vivekananda"
     },
@@ -110,7 +114,7 @@
     {
         "quote": "A man is born alone and dies alone, and he experiences the good and bad consequences of his karma alone, and he goes alone to hell or the Supreme abode",
         "name": "Chanakya"
-    },  {
+    }, {
         "quote": "Never stop fighting until you arrive at your destined place – that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have the perseverance to realize the great life",
         "name": "Dr. A.P. J. Abdul Kalam"
     },
